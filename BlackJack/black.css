@@ -1,0 +1,110 @@
+body{
+	background-image:url('http://www.hasis.edu.om/images/background.jpg');
+}
+
+.gameBoard{
+	margin:auto;
+	height:30em;
+}
+
+.winnerDiv{
+	font-size:2em;
+	display:inline-block;
+	
+}
+.myCard{
+	height:14em;
+	width:7em;
+	display:inline-block;
+	position:relative;
+}
+.dealerCard{
+	height:14em;
+	width:7em;
+	display:inline-block;
+	position:relative;
+}
+
+img{
+	height:100%;
+	width:100%;
+	border-radius:10px;
+}
+
+
+.hit{
+	margin-left:1em;
+	margin-top:1em;
+	display:inline;
+	
+	
+}
+.stay{
+	margin-left:1em;
+	margin-top:1em;
+	display:inline;
+}
+.play{
+	margin-left:1em;
+	margin-top:1em;
+	
+}
+.newGame{
+	margin-left:1em;
+	margin-top:1em;
+	
+}
+.myScore{
+	display:inline-block;
+	margin-left:2em;
+}
+.dealerScore{
+	display:inline-block;
+}
+
+.fucboi{
+	display:none;
+	
+}
+.myMoney{
+	display:block;
+	
+}
+.myFunds{
+	display:block;
+	font-size:2em;
+	
+}
+
+.betButtons{
+	display:inline-block;
+}
+
+.pot{
+	font-size:2em;
+}
+
+
+.myFunds{
+	font-size:2em;
+}
+
+.theBetWrapper{
+	display:inline-block;
+}
+
+.title{
+	margin-left:.5em;
+	margin-top:.5em;
+	height:5em;
+	width:16em;
+	display:inline-block;
+	margin:auto;
+}
+.titlePic{
+	height:100%;
+	width:100%;
+	border-radius: 0px;
+}
+
+
